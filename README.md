@@ -2,7 +2,7 @@
 A simple game where players try to guess a randomly generated number within a given range.
 
 
-Features
+<h2Features</h2>
 
 Random number generation
 
